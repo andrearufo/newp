@@ -8,3 +8,4 @@ Use `chmod +x newp.sh`
 ## References
 
 - https://www.taniarascia.com/how-to-create-and-use-bash-scripts/
+- https://www.cyberciti.biz/faq/howto-check-if-a-directory-exists-in-a-bash-shellscript/
